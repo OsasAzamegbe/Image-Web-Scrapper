@@ -1,2 +1,2 @@
-# Image-Web-Scrapper
+# Wallpaper-Scrapper
 Used the requests and pillow modules from my favourite language to create a simple wallpaper downloader of sorts :]
